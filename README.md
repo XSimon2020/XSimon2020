@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xavier, an <a href="https://www.linkedin.com/in/xavier-simon-884237272/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Xavier, an <a href="https://www.linkedin.com/in/xavier-simon-884237272/"> aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

@@ -6,7 +6,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xaviersimon/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Active Directory within Azure Virtual Machines](https://github.com/xaviersimon/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/xaviersimon/azure-network-protocols)
+  - [Inspecting Network Protocols](https://github.com/xaviersimon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 

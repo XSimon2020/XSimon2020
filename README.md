@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/XSimon2020/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/XSimon2020/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Inspecting Network Protocols](https://github.com/xaviersimon/azure-network-protocols)
-  - [Active Directory within Azure Virtual Machines](https://github.com/xaviersimon/configure-ad)
+  - [Inspecting Network Protocols](https://github.com/XSimon2020/azure-network-protocols)
+  - [Active Directory within Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
 
   <h2>🤳Connect with me:</h2>
 

@@ -5,10 +5,10 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xaviersimon/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Active Directory within Azure Virtual Machines](https://github.com/xaviersimon/configure-ad)
   - [Inspecting Network Protocols](https://github.com/xaviersimon/azure-network-protocols)
+  - [Active Directory within Azure Virtual Machines](https://github.com/xaviersimon/configure-ad)
 
-<h2>🤳Connect with me:</h2>
+  <h2>🤳Connect with me:</h2>
 
 
 [<img align="left" alt="Xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

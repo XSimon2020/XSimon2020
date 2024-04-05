@@ -1,6 +1,6 @@
 <h1>Hello, I'm Xavier, an <a href="https://www.linkedin.com/in/xavier-simon-884237272/"> aspiring IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Inspecting Network Protocols](https://github.com/XSimon2020/azure-network-protocols)
@@ -12,7 +12,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/XSimon2020/ticket-lifecycle)
 
 
-  <h2>🤳Connect with me:</h2>
+  <h2>Connect with me:</h2>
 
 
 [<img align="left" alt="Xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

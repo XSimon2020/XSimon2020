@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Inspecting Network Protocols](https://github.com/XSimon2020/azure-network-protocols)
+  - [Active Directory within Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/XSimon2020/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/XSimon2020/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Inspecting Network Protocols](https://github.com/XSimon2020/azure-network-protocols)
-  - [Active Directory within Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
+
 
   <h2>🤳Connect with me:</h2>
 

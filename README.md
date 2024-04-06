@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Inspecting Traffic By Protocols Between Virtual Machines Within Azure](https://github.com/XSimon2020/azure-network-protocols)
+  - [Inspecting Traffic By Protocols Between Azure Virtual Machines](https://github.com/XSimon2020/azure-network-protocols)
   - [Active Directory within Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>

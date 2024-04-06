@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Inspecting Traffic By Protocols Between Azure Virtual Machines](https://github.com/XSimon2020/azure-network-protocols)
-  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
+  - [Configuring Active Directory For Azure Virtual Machines](https://github.com/XSimon2020/configure-ad)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
